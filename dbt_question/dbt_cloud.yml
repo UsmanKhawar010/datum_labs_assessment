@@ -1,0 +1,11 @@
+version: "1"
+context:
+  active-host: "cloud.getdbt.com"
+  active-project: "353366"
+projects:
+  - project-name: "Analytics"
+    project-id: "353366"
+    account-name: "ITU"
+    account-id: "248021"
+    account-host: "cloud.getdbt.com"
+    api-key: "6eb155cc3fac46f6123aae1a0bc813716c9e2879"
